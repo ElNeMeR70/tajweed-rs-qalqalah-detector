@@ -1,0 +1,10 @@
+[package]
+name = "tajweed-rs-qalqalah-detector"
+version = "1.0.0"
+edition = "2021"
+description = "Qalqalah Plosive Acoustic Bounce Detector (Qutb Jad)"
+authors = ["Mahmoud ElNemer <sultanelnemer@gmail.com>"]
+
+[[bin]]
+name = "tajweed_rs_qalqalah_detector"
+path = "main.rs"
